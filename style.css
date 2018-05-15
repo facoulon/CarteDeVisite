@@ -1,13 +1,12 @@
 body {
     margin: auto;
     font-family: sans-serif;
-
 }
-.page{
+
+.page {
     border: groove 2px #f0f0f0;
     width: 25%;
     height: 10%;
-
 }
 
 h1 {
@@ -18,7 +17,7 @@ h1 {
 }
 
 .logo {
-    float:right;
+    float: right;
 }
 
 h2 {
@@ -39,17 +38,19 @@ footer {
     padding-top: 2em;
     padding-bottom: 2em;
 }
+
 main {
     padding: 2em 1.5em 0.5em 1.5em;
     letter-spacing: -0.1em;
 }
+
 address {
     margin-left: 1em;
     font-style: normal;
-    color:#60656a;
+    color: #60656a;
 }
+
 a {
     margin-right: 3em;
     color: #45aace;
-
 }
