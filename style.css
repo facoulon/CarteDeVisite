@@ -1,5 +1,4 @@
 body {
-    margin: auto;
     font-family: sans-serif;
 }
 
@@ -7,6 +6,7 @@ body {
     border: groove 2px #f0f0f0;
     width: 25%;
     height: 10%;
+    margin:auto;
 }
 
 h1 {
