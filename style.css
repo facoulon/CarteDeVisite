@@ -1,0 +1,55 @@
+body {
+    margin: auto;
+    font-family: sans-serif;
+
+}
+.page{
+    border: groove 2px #f0f0f0;
+    width: 25%;
+    height: 10%;
+
+}
+
+h1 {
+    width: 40%;
+    display: inline;
+    font-size: 2em;
+    color: #444444;
+}
+
+.logo {
+    float:right;
+}
+
+h2 {
+    clear: both;
+    padding-top: 0.2em;
+    color: #888888;
+}
+
+h2 span {
+    color: #cccccd;
+    font-size: 0.6em;
+}
+
+footer {
+    background-color: #eaecef;
+    width: 100%;
+    height: auto;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+main {
+    padding: 2em 1.5em 0.5em 1.5em;
+    letter-spacing: -0.1em;
+}
+address {
+    margin-left: 1em;
+    font-style: normal;
+    color:#60656a;
+}
+a {
+    margin-right: 3em;
+    color: #45aace;
+
+}
